@@ -15,10 +15,10 @@ Realizar las operaciones y explicar brevemente mediante un texto que contenga t�
 - Subida de la carpeta src "repasoarraysjava" de un proyecto en java.
 - Creación de una nueva branch que se llama desarrolloPersona.
 - Descarga del contenido de la branch a mi repositorio local.
-- Creación de una clase nueva "ClaseEntornos, actualización de la branch "nuevarama" en el repositorio y documento este proceso con el comentario “Nueva clase – nombre de la clase”.
+- Creación de una clase nueva "ClaseEntornos", actualización de la branch "nuevarama" en el repositorio y documento este proceso con el comentario “Nueva clase – nombre de la clase”.
 - Modificación de un atributo de la clase nueva y actualización de la branch en el repositorio, documento este proceso con el comentario “Edición clase – nombre de la clase”.
 - Realización de una comprobación de los cambios.
-- Fusiono la branch “desarrolloPersona” con la branch principal “main”.
+- Fusión de la branch “desarrolloPersona” con la branch principal “main”.
 - Publicación de este proceso en mi README.MD main de GitHub.
   
   ![Imagen](recursos/pantalla.jpg)
