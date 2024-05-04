@@ -20,7 +20,8 @@ Realizar las operaciones y explicar brevemente mediante un texto que contenga t�
 - Realización de una comprobación de los cambios.
 - Fusiono la branch “desarrolloPersona” con la branch principal “main”.
 - Publicación de este proceso en mi README.MD main de GitHub.
-  (recursos/pantalla.jpg)
+  
+  ![Imagen](recursos/pantalla.jpg)
 
 
 
