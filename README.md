@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Fabiola Barreiro A.
 ![Imagen de Portada](recursos/gatito.jpg)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
